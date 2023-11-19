@@ -1,6 +1,7 @@
 # Banking Churn Prediction Project 🏦
 
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.analyticsvidhya.com%2Fwp-content%2Fuploads%2F2020%2F05%2FChurn-Prediction-scaled.jpg&tbnid=5qLcH_fT9YQ56M&vet=12ahUKEwjyy_ext8-CAxUkoScCHRxmB8AQMygBegQIARBT..i&imgrefurl=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2022%2F09%2Fbank-customer-churn-prediction-using-machine-learning%2F&docid=ej4SbVHN-tTCSM&w=2560&h=1440&q=banking%20churn%20prediction&ved=2ahUKEwjyy_ext8-CAxUkoScCHRxmB8AQMygBegQIARBT
+![image](https://github.com/Murad-pitafi/Banks-Customer-Churn-Prediction/assets/119106831/8708e623-9486-4029-8295-6b76c3cfb821)
+
 ## Overview
 
 Welcome to our Banking Churn Prediction project, where we leverage the power of Machine Learning to predict customer churn in the banking sector. Our awesome team consists of three members: Ahmed, Murad, and Areeba.
